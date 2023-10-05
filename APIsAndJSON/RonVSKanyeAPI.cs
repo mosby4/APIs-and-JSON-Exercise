@@ -24,9 +24,11 @@ namespace APIsAndJSON
 
         public static string ronQuote()
         {
+            var ronURL = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
+
             var client = new HttpClient();
 
-            var ronResponse = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
+            var ronResponse = client.GetStringAsync(ronURL).Result;
 
             var ronQuote = JArray.Parse(ronResponse).ToString().Replace('[', ' ').Replace(']', ' ').Trim();
 
