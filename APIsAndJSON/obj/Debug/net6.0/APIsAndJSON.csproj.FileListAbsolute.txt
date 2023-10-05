@@ -1,0 +1,17 @@
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.deps.json
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.runtimeconfig.json
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.dll
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.pdb
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.csproj.AssemblyReference.cache
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.AssemblyInfoInputs.cache
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.AssemblyInfo.cs
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.csproj.CoreCompileInputs.cache
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.csproj.CopyComplete
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.dll
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/refint/APIsAndJSON.dll
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.pdb
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.genruntimeconfig.cache
+/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/ref/APIsAndJSON.dll
