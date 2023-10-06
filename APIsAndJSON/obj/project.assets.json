@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/APIsAndJSON.csproj",
+      "projectUniqueName": "/Users/Rufus/Desktop/API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/APIsAndJSON.csproj",
       "projectName": "APIsAndJSON",
-      "projectPath": "/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/APIsAndJSON.csproj",
+      "projectPath": "/Users/Rufus/Desktop/API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/APIsAndJSON.csproj",
       "packagesPath": "/Users/Rufus/.nuget/packages/",
-      "outputPath": "/Users/Rufus/Desktop/Devu Practice /API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/",
+      "outputPath": "/Users/Rufus/Desktop/API-And-JSON-Exercise/APIs-and-JSON-Exercise/APIsAndJSON/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Rufus/.nuget/NuGet/NuGet.Config"

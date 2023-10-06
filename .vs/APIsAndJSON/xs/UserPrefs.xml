@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIsAndJSON/RonVSKanyeAPI.cs">
+    <Files>
+      <File FileName="APIsAndJSON/Program.cs" Line="8" Column="25" />
+      <File FileName="APIsAndJSON/RonVSKanyeAPI.cs" Line="35" Column="29" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="APIsAndJSON">
+            <Node name="APIsAndJSON">
+              <Node name="RonVSKanyeAPI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.APIsAndJSON PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
